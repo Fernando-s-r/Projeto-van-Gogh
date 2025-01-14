@@ -106,6 +106,18 @@ section.img > p {
         background-size: cover;
     }
 
+    section#img004 {
+        background-image: url('imagens/img004.webp');
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+
+    section#img005 {
+        background-image: url('imagens/img005.webp');
+        padding-top: 200px;
+        padding-bottom: 200px;
+    }
+
 footer {
     background-color: black;
     color: white;
