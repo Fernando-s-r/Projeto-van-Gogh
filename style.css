@@ -94,7 +94,8 @@ section.img > p {
 
     section#img02 {
         background-image: url('imagens/img002.jpg');
-       
+        padding-top: 200px;
+        padding-bottom: 200px;
         
     }
 
