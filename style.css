@@ -96,6 +96,7 @@ section.img > p {
         background-image: url('imagens/img002.jpg');
         padding-top: 200px;
         padding-bottom: 200px;
+        background-position: center center;
         
     }
 
@@ -111,12 +112,14 @@ section.img > p {
         background-image: url('imagens/img004.webp');
         padding-top: 200px;
         padding-bottom: 200px;
+        background-position: center center;
     }
 
     section#img005 {
         background-image: url('imagens/img005.webp');
         padding-top: 200px;
         padding-bottom: 200px;
+        background-position: center center;
     }
 
 footer {
